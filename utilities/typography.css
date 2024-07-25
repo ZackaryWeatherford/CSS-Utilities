@@ -1,0 +1,66 @@
+/* Typography.css */
+
+
+/* General Font Sizes */
+.font-sm{}
+
+/* Specific Font Sizes */
+
+
+/* Text Alignment */
+.text-left { text-align: left; }      /* Text align left*/
+.tect-center { text-align: center; }  /* Text align center*/
+.tect-right { text-align: right;}     /* Text align right*/
+
+/* Font Weight */
+.weight-light { font-weight: 300; }   /* Font weight light*/
+.weight-normal { font-weight: 400; }  /* Font weight normal*/
+.weight-medium { font-weight: 500; }  /* Font weight medium*/
+.weight-bold { font-weight: 700; }    /* Font weight bold*/
+.weight-bolder { font-weight: 900; }  /* Font weight bolder*/
+
+/* Text Decloration */
+.text-uppercase { text-transform: uppercase; }   /**/
+.text-lowercase { text-transform: lowercase; }   /**/
+.text-capitalize { text-transform: capitalize; } /**/
+
+/* Line Height */
+.text-height-1 { line-height: 1; }          /**/
+.text-height-1_25 { line-height: 1.25; }    /**/
+.text-height-1_5 { line-height: 1.5; }      /**/
+.text-height-1_75 { line-height: 1.75; }    /**/
+.text-height-2 { line-height: 2;}           /**/
+
+/* Letter Spacing */
+.letter-spacing-tight { letter-spacing: -0.05em; } /* Tight letter spacing */
+.letter-spacing-normal { letter-spacing: normal; } /* Normal letter spacing */
+.letter-spacing-wide { letter-spacing: 0.05em; }   /* Wide letter spacing */
+
+
+
+
+.test{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
